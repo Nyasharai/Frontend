@@ -1,0 +1,220 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 166rem;
+}.recognition-page-BDX {
+  background-color: black;
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  /* background-image: url('../assets/recognition-page-bg-8UD.png'); */
+}
+.recognition-page-BDX .recognition-K4q {
+  width: 26.6rem;
+  height: 6rem;
+  position: absolute;
+  left: 5.3rem;
+  top: 7.4rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #ffffff;
+  font-family: Copse, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.recognition-page-BDX .line-1-cJq {
+  width: 168rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 0;
+  top: 17.8rem;
+  background-color: #1f6e8c;
+}
+.recognition-page-BDX .auto-group-bz2z-kR3 {
+  width: 139.9rem;
+  height: 69.8rem;
+  position: absolute;
+  left: 13.5rem;
+  top: 26.7rem;
+  display: flex;
+  align-items: center;
+}
+.recognition-page-BDX .auto-group-bz2z-kR3 .auto-group-h541-5TK {
+  margin-right: 32.3rem;
+  box-sizing: border-box;
+  padding: 3.4rem 14.8rem 6.9rem 12.2rem;
+  width: 53.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(31, 110, 140, 0.5);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.recognition-page-BDX .auto-group-bz2z-kR3 .auto-group-h541-5TK .fingerprint-recognition-ncd {
+  margin-bottom: 40.9rem;
+  max-width: 26.8rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #ffffff;
+  font-family: Copse, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.recognition-page-BDX .auto-group-bz2z-kR3 .auto-group-h541-5TK .auto-group-7p1b-uhF {
+  margin: 0rem 4.1rem 0rem 6.6rem;
+  width: calc(100% - 10.7rem);
+  height: 6.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.recognition-page-BDX .auto-group-bz2z-kR3 .auto-group-h541-5TK .auto-group-7p1b-uhF .rectangle-7-EDj {
+  width: 16.1rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.recognition-page-BDX .auto-group-bz2z-kR3 .auto-group-h541-5TK .auto-group-7p1b-uhF .select-khs {
+  width: 10rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 3.4rem;
+  top: 0;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.8525;
+  color: #1f6e8c;
+  font-family: Corben, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.recognition-page-BDX .auto-group-bz2z-kR3 .auto-group-gwc1-qDX {
+  box-sizing: border-box;
+  padding: 3.4rem 16.9rem 6.9rem 15.5rem;
+  width: 53.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(31, 110, 140, 0.5);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.recognition-page-BDX .auto-group-bz2z-kR3 .auto-group-gwc1-qDX .face-detection-ZQR {
+  margin-bottom: 40.9rem;
+  max-width: 21.4rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #ffffff;
+  font-family: Copse, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.recognition-page-BDX .auto-group-bz2z-kR3 .auto-group-gwc1-qDX .auto-group-66e1-gjw {
+  margin: 0rem 2rem 0rem 3.3rem;
+  width: calc(100% - 5.3rem);
+  height: 6.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.recognition-page-BDX .auto-group-bz2z-kR3 .auto-group-gwc1-qDX .auto-group-66e1-gjw .rectangle-15-cdb {
+  width: 16.1rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.recognition-page-BDX .auto-group-bz2z-kR3 .auto-group-gwc1-qDX .auto-group-66e1-gjw .select-9Nd {
+  width: 10rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 3.3rem;
+  top: 0;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.8525;
+  color: #1f6e8c;
+  font-family: Corben, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.recognition-page-BDX .fingerprint-RL9 {
+  box-sizing: border-box;
+  padding: 2.25rem 3.107rem 2.25rem 3.097rem;
+  width: 24.8rem;
+  height: 27rem;
+  position: absolute;
+  left: 28rem;
+  top: 48.1rem;
+  overflow: hidden;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-kjP.png');
+}
+.recognition-page-BDX .fingerprint-RL9 .vector-KwK {
+  width: 18.5962rem;
+  height: 22.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.recognition-page-BDX .insertemoticon-fEV {
+  box-sizing: border-box;
+  padding: 2.675rem 2.858rem 2.675rem 2.858rem;
+  width: 34.3rem;
+  height: 32.1rem;
+  position: absolute;
+  left: 109.3rem;
+  top: 48.1rem;
+  overflow: hidden;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-ghj.png');
+}
+.recognition-page-BDX .insertemoticon-fEV .vector-N8u {
+  width: 28.5833rem;
+  height: 26.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.recognition-page-BDX .reorder-td3 {
+  box-sizing: border-box;
+  padding: 1.4375rem 0.7rem;
+  width: 5.6rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 153.4rem;
+  top: 6.7rem;
+  overflow: hidden;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-wkZ.png');
+}
+.recognition-page-BDX .reorder-td3 .vector-D9X {
+  width: 4.2rem;
+  height: 4.025rem;
+  object-fit: contain;
+  vertical-align: top;
+}

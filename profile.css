@@ -1,0 +1,190 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 166rem;
+}
+.profile-9yo {
+  background-color: black;
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  /* background-image: url('../assets/profile-bg.png'); */
+}
+.profile-9yo .ellipse-2-5cZ {
+  width: 15.5rem;
+  height: 15.5rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 8.5rem;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 7.75rem;
+}
+.profile-9yo .finger2-2-o2m {
+  width: 170.1rem;
+  height: 109.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.profile-9yo .rectangle-3-vt5 {
+  width: 166rem;
+  height: 16.5rem;
+  position: absolute;
+  left: 0;
+  top: 7.5rem;
+  background-color: #1f6e8c;
+}
+.profile-9yo .ellipse-1-f4y {
+  width: 15.5rem;
+  height: 15.5rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 8rem;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 7.75rem;
+}
+.profile-9yo .reorder-nQV {
+  box-sizing: border-box;
+  padding: 1.4375rem 0.7rem;
+  width: 5.6rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 156.3rem;
+  top: 11.3rem;
+  overflow: hidden;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-VND.png');
+}
+.profile-9yo .reorder-nQV .vector-hnM {
+  width: 4.2rem;
+  height: 4.025rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.profile-9yo .khoya-paaya-qNm {
+  width: 39.9rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 65rem;
+  top: 12.6rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1.19;
+  color: #ffffff;
+  font-family: Chivo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.profile-9yo .rectangle-13-86y {
+  width: 124.8rem;
+  height: 59.4rem;
+  position: absolute;
+  left: 20.6rem;
+  top: 34.5rem;
+  background-color: rgba(31, 110, 140, 0.5);
+  border-radius: 2rem;
+}
+.profile-9yo .designation-dZX {
+  width: 27.2rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 45rem;
+  top: 59.7rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.19;
+  color: #ffffff;
+  font-family: Chivo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.profile-9yo .name-9Xs {
+  width: 14.2rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 45rem;
+  top: 47rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.19;
+  color: #ffffff;
+  font-family: Chivo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.profile-9yo .person-fm7 {
+  box-sizing: border-box;
+  padding: 1.917rem 1.9rem 1.917rem 1.9rem;
+  width: 11.4rem;
+  height: 11.5rem;
+  position: absolute;
+  left: 28.7rem;
+  top: 44.1rem;
+  overflow: hidden;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-T8q.png');
+}
+.profile-9yo .person-fm7 .vector-NQd {
+  width: 7.6rem;
+  height: 7.6667rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.profile-9yo .name-W13 {
+  width: 14.2rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 45rem;
+  top: 47.2rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.19;
+  color: #ffffff;
+  font-family: Chivo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.profile-9yo .user-id-RNu {
+  width: 17.2rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 45rem;
+  top: 72.2rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.19;
+  color: #ffffff;
+  font-family: Chivo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.profile-9yo .logo-w6M {
+  width: 8.8rem;
+  height: 5rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 13.6rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #ffffff;
+  font-family: Copse, 'Source Sans Pro';
+  white-space: nowrap;
+}

@@ -1,0 +1,250 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 166rem;
+}
+.home-page-cn9 {
+  background-color: black;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  /* background-image: url('../assets/home-page-bg.png'); */
+}
+.home-page-cn9 .auto-group-w1rm-MUq {
+  width: 100%;
+  height: 28.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-cn9 .auto-group-w1rm-MUq .auto-group-wmjs-Jey {
+  width: 162.4rem;
+  height: 15.8rem;
+  position: absolute;
+  left: 2rem;
+  top: 1.9rem;
+  display: flex;
+  align-items: center;
+}
+.home-page-cn9 .auto-group-w1rm-MUq .auto-group-wmjs-Jey .auto-group-scfo-Dmw {
+  margin: 0rem 8.5rem 0.3rem 0rem;
+  width: 15.5rem;
+  height: 15.5rem;
+  position: relative;
+  background-color: rgba(31, 110, 140, 0.5);
+  border-radius: 7.75rem;
+  flex-shrink: 0;
+}
+.home-page-cn9 .auto-group-w1rm-MUq .auto-group-wmjs-Jey .auto-group-scfo-Dmw .logo-8tu {
+  width: 8.8rem;
+  height: 5rem;
+  position: absolute;
+  left: 3.5rem;
+  top: 5.5rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #ffffff;
+  font-family: Copse, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-cn9 .auto-group-w1rm-MUq .auto-group-wmjs-Jey .auto-group-scfo-Dmw .logo-dam {
+  width: 8.8rem;
+  height: 5rem;
+  position: absolute;
+  left: 3.5rem;
+  top: 5.5rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #ffffff;
+  font-family: Copse, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-cn9 .auto-group-w1rm-MUq .auto-group-wmjs-Jey .khoya-paaya-iMK {
+  margin: 2.4rem 63.6rem 0rem 0rem;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #ffffff;
+  font-family: Copse, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-cn9 .auto-group-w1rm-MUq .auto-group-wmjs-Jey .emblemofindia-1-Dos {
+  margin: 2.9rem 5.9rem 0rem 0rem;
+  width: 9.6rem;
+  height: 12.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-cn9 .auto-group-w1rm-MUq .auto-group-wmjs-Jey .auto-group-5mth-L7o {
+  margin: 2.4rem 0rem 6.5rem 0rem;
+  width: 15rem;
+  height: calc(100% - 8.9rem);
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #ffffff;
+  font-family: Copse, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(31, 110, 140, 0.6000000238);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.home-page-cn9 .auto-group-w1rm-MUq .auto-group-hfcy-yRf {
+  width: 131.5rem;
+  height: 5rem;
+  position: absolute;
+  left: 24.1rem;
+  top: 22.7rem;
+  display: flex;
+  align-items: center;
+}
+.home-page-cn9 .auto-group-w1rm-MUq .auto-group-hfcy-yRf .about-us-Veu {
+  margin-right: 10.5rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #1f6e8c;
+  font-family: Copse, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-cn9 .auto-group-w1rm-MUq .auto-group-hfcy-yRf .procedure-E6h {
+  margin-right: 10.9rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #1f6e8c;
+  font-family: Copse, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-cn9 .auto-group-w1rm-MUq .auto-group-hfcy-yRf .recognition-ZPs {
+  margin-right: 12.5rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #1f6e8c;
+  font-family: Copse, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-cn9 .auto-group-w1rm-MUq .auto-group-hfcy-yRf .ngo-5d7 {
+  margin-right: 11.7rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #1f6e8c;
+  font-family: Copse, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-cn9 .auto-group-w1rm-MUq .auto-group-hfcy-yRf .contact-us-DjK {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #1f6e8c;
+  font-family: Copse, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-cn9 .auto-group-w1rm-MUq .home-ZHP {
+  box-sizing: border-box;
+  padding: 1.129rem 0.968rem 1.35rem 0.969rem;
+  width: 8.3rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 20.1rem;
+  overflow: hidden;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-Rkh.png');
+}
+.home-page-cn9 .auto-group-w1rm-MUq .home-ZHP .vector-GBo {
+  width: 6.3634rem;
+  height: 5.6211rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-cn9 .line-1-nvq {
+  margin-bottom: 7.3rem;
+  width: 100%;
+  height: 0.4rem;
+  background-color: #1f6e8c;
+  flex-shrink: 0;
+}
+.home-page-cn9 .auto-group-ov4d-8jo {
+  margin-left: 6.2rem;
+  width: 228.2524rem;
+  height: 141.4878rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-cn9 .auto-group-ov4d-8jo .rectangle-9-sBb {
+  width: 170.0524rem;
+  height: 135.1878rem;
+  position: absolute;
+  left: 58.2rem;
+  top: 6.3rem;
+  background-color: rgba(30, 30, 30, 0.8000000119);
+}
+.home-page-cn9 .auto-group-ov4d-8jo .rectangle-10-zn1 {
+  width: 80.5rem;
+  height: 63.6rem;
+  position: absolute;
+  left: 103.8rem;
+  top: 6.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-cn9 .auto-group-ov4d-8jo .lorem-ipsum-dolor-sit-amet-sit-optio-molestias-sed-quibusdam-veritatis-in-dolorum-deleniti-ea-quia-suscipit-et-provident-enim-nam-rerum-esse-aut-eaque-explicabo-aut-error-eveniet-at-incidunt-sequi-id-veritatis-accusamus-ut-aspernatur-galisum-est-dolores-cupiditate-ab-quisquam-nobis-eos-modi-omnis-sit-atque-alias-qui-quasi-accusantium-est-doloremque-tempora-qui-mollitia-adipisci-qui-dolor-doloremque-vel-autem-atque-ut-asperiores-quia-sed-voluptatem-sint-KJV {
+  width: 116.7rem;
+  height: 31.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #ffffff;
+  font-family: Copse, 'Source Sans Pro';
+}
+.home-page-cn9 .auto-group-ov4d-8jo .lorem-ipsum-dolor-sit-amet-sit-optio-atur-galisum-est-dolores-cupiditate-ab-quisquam-nobis-eos-modi-omnis-sit-atque-alias-qui-quasi-accusantium-est-doloremque-tempora-qui-mollitia-adipisci-qui-dolor-doloremque-vel-autem-atque-ut-asperiores-quia-sed-voluptatem-sint-381 {
+  width: 85.5rem;
+  height: 26.7rem;
+  position: absolute;
+  left: 0;
+  top: 35.8rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #ffffff;
+  font-family: Copse, 'Source Sans Pro';
+}
+
+
+

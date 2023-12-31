@@ -1,0 +1,303 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 166rem;
+}.drop-down-box-J8M {
+  background-color: black;
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  /* background-image: url('../assets/drop-down-box-bg.png'); */
+}
+.drop-down-box-J8M .recognition-cuj {
+  width: 26.6rem;
+  height: 6rem;
+  position: absolute;
+  left: 5.3rem;
+  top: 7.4rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #ffffff;
+  font-family: Copse, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.drop-down-box-J8M .line-1-vQd {
+  width: 168rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 0;
+  top: 17.8rem;
+  background-color: #1f6e8c;
+}
+.drop-down-box-J8M .rectangle-13-Fxh {
+  width: 53.8rem;
+  height: 69.8rem;
+  position: absolute;
+  left: 13.5rem;
+  top: 26.7rem;
+  background-color: rgba(31, 110, 140, 0.5);
+  border-radius: 2rem;
+}
+.drop-down-box-J8M .fingerprint-nSq {
+  box-sizing: border-box;
+  padding: 2.25rem 3.107rem 2.25rem 3.097rem;
+  width: 24.8rem;
+  height: 27rem;
+  position: absolute;
+  left: 28rem;
+  top: 48.1rem;
+  overflow: hidden;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-QJ1.png');
+}
+.drop-down-box-J8M .fingerprint-nSq .vector-6yK {
+  width: 18.5962rem;
+  height: 22.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.drop-down-box-J8M .rectangle-14-F5X {
+  width: 53.8rem;
+  height: 69.8rem;
+  position: absolute;
+  left: 99.6rem;
+  top: 26.7rem;
+  background-color: rgba(31, 110, 140, 0.25);
+  border-radius: 2rem;
+}
+.drop-down-box-J8M .rectangle-15-AiH {
+  width: 16.1rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 118.4rem;
+  top: 83.5rem;
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.drop-down-box-J8M .select-hTK {
+  width: 10rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 121.7rem;
+  top: 82.9rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.8525;
+  color: #1f6e8c;
+  font-family: Corben, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.drop-down-box-J8M .insertemoticon-bYh {
+  opacity: 0.5;
+  box-sizing: border-box;
+  padding: 2.675rem 2.858rem 2.675rem 2.858rem;
+  width: 34.3rem;
+  height: 32.1rem;
+  position: absolute;
+  left: 109.3rem;
+  top: 48.1rem;
+  overflow: hidden;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-DZf.png');
+}
+.drop-down-box-J8M .insertemoticon-bYh .vector-HgR {
+  width: 28.5833rem;
+  height: 26.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.drop-down-box-J8M .face-detection-qC9 {
+  width: 21.4rem;
+  height: 11.9rem;
+  position: absolute;
+  left: 115.1rem;
+  top: 30.1rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: rgba(255, 255, 255, 0.3000000119);
+  font-family: Copse, 'Source Sans Pro';
+}
+.drop-down-box-J8M .reorder-Kt1 {
+  box-sizing: border-box;
+  padding: 1.4375rem 0.7rem;
+  width: 5.6rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 153.4rem;
+  top: 6.7rem;
+  overflow: hidden;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-ADK.png');
+}
+.drop-down-box-J8M .reorder-Kt1 .vector-EVB {
+  width: 4.2rem;
+  height: 4.025rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.drop-down-box-J8M .fingerprint-recognition-xvy {
+  width: 26.8rem;
+  height: 11.9rem;
+  position: absolute;
+  left: 25.7rem;
+  top: 30.1rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #ffffff;
+  font-family: Copse, 'Source Sans Pro';
+}
+.drop-down-box-J8M .rectangle-7-sY9 {
+  width: 16.1rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 32.3rem;
+  top: 83.5rem;
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.drop-down-box-J8M .select-Q2H {
+  width: 10rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 35.7rem;
+  top: 82.9rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.8525;
+  color: #1f6e8c;
+  font-family: Corben, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.drop-down-box-J8M .rectangle-19-KQ9 {
+  width: 46.3rem;
+  height: 43.2rem;
+  position: absolute;
+  left: 116.6rem;
+  top: 4.9rem;
+  background-color: rgba(31, 110, 140, 0.8999999762);
+  border-radius: 2rem;
+}
+.drop-down-box-J8M .history-FYh {
+  width: 4.5rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 118.4rem;
+  top: 26.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.drop-down-box-J8M .history-Puo {
+  width: 11rem;
+  height: 4rem;
+  position: absolute;
+  left: 125rem;
+  top: 26.2rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #ffffff;
+  font-family: Copse, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.drop-down-box-J8M .log-out-v93 {
+  width: 11.5rem;
+  height: 4rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 34.5rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #ffffff;
+  font-family: Copse, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.drop-down-box-J8M .profile-EfX {
+  width: 9.9rem;
+  height: 4rem;
+  position: absolute;
+  left: 125rem;
+  top: 17.2rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #ffffff;
+  font-family: Copse, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.drop-down-box-J8M .reorder-MEM {
+  box-sizing: border-box;
+  padding: 1.4375rem 0.7rem;
+  width: 5.6rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 153.4rem;
+  top: 6.7rem;
+  overflow: hidden;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-1rm.png');
+}
+.drop-down-box-J8M .reorder-MEM .vector-UZs {
+  width: 4.2rem;
+  height: 4.025rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.drop-down-box-J8M .item--cRB {
+  width: 1.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 118.7rem;
+  top: 34.8rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #ffffff;
+  font-family: Copse, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.drop-down-box-J8M .arrowrightalt-X2M {
+  width: 3.4rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 119.1rem;
+  top: 35.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.drop-down-box-J8M .person-FDF {
+  width: 3.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 119.4rem;
+  top: 17.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}

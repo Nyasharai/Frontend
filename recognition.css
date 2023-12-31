@@ -1,0 +1,182 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 166rem;
+}.recognition-ziH {
+  box-sizing: border-box;
+  padding-bottom: 73.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/recognition-bg.png');
+}
+.recognition-ziH .auto-group-lpqx-WRj {
+  box-sizing: border-box;
+  padding: 1.9rem 1.6rem 0rem 2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.recognition-ziH .auto-group-lpqx-WRj .auto-group-rz9b-F8R {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  height: 15.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.recognition-ziH .auto-group-lpqx-WRj .auto-group-rz9b-F8R .auto-group-pgsp-Nyj {
+  margin: 0rem 8.5rem 0.3rem 0rem;
+  width: 15.5rem;
+  height: 15.5rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #ffffff;
+  font-family: Copse, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(31, 110, 140, 0.5);
+  border-radius: 7.75rem;
+  flex-shrink: 0;
+}
+.recognition-ziH .auto-group-lpqx-WRj .auto-group-rz9b-F8R .khoya-paaya-RSD {
+  margin: 2.4rem 63.6rem 0rem 0rem;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #ffffff;
+  font-family: Copse, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.recognition-ziH .auto-group-lpqx-WRj .auto-group-rz9b-F8R .emblemofindia-1-Lp5 {
+  margin: 2.9rem 5.9rem 0rem 0rem;
+  width: 9.6rem;
+  height: 12.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.recognition-ziH .auto-group-lpqx-WRj .auto-group-rz9b-F8R .auto-group-ye3x-GBw {
+  margin: 2.4rem 0rem 6.5rem 0rem;
+  width: 15rem;
+  height: calc(100% - 8.9rem);
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #ffffff;
+  font-family: Copse, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(31, 110, 140, 0.6000000238);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.recognition-ziH .auto-group-lpqx-WRj .auto-group-fkks-vnH {
+  margin: 0rem 8.8rem 0rem 5.5rem;
+  width: calc(100% - 14.3rem);
+  height: 8.1rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.recognition-ziH .auto-group-lpqx-WRj .auto-group-fkks-vnH .home-qeM {
+  margin-right: 8.3rem;
+  box-sizing: border-box;
+  padding: 1.129rem 0.968rem 1.35rem 0.969rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-Qqb.png');
+  flex-shrink: 0;
+}
+.recognition-ziH .auto-group-lpqx-WRj .auto-group-fkks-vnH .home-qeM .vector-m2D {
+  width: 6.3634rem;
+  height: 5.6211rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.recognition-ziH .auto-group-lpqx-WRj .auto-group-fkks-vnH .about-us-tcd {
+  margin: 0rem 10.5rem 0.5rem 0rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #1f6e8c;
+  font-family: Copse, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.recognition-ziH .auto-group-lpqx-WRj .auto-group-fkks-vnH .procedure-pWH {
+  margin: 0rem 10.9rem 0.5rem 0rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #1f6e8c;
+  font-family: Copse, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.recognition-ziH .auto-group-lpqx-WRj .auto-group-fkks-vnH .recognition-Yx5 {
+  margin: 0rem 12.5rem 0.5rem 0rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #ffffff;
+  font-family: Copse, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.recognition-ziH .auto-group-lpqx-WRj .auto-group-fkks-vnH .ngo-gHb {
+  margin: 0rem 11.7rem 0.5rem 0rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #1f6e8c;
+  font-family: Copse, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.recognition-ziH .auto-group-lpqx-WRj .auto-group-fkks-vnH .contact-us-p8u {
+  margin-bottom: 0.5rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #1f6e8c;
+  font-family: Copse, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.recognition-ziH .line-1-kYM {
+  width: 100%;
+  height: 0.4rem;
+  background-color: #1f6e8c;
+  flex-shrink: 0;
+}
